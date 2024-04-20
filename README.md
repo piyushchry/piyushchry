@@ -27,4 +27,4 @@ Portfolio
 Twitter
 Let's Collaborate
 
-I'm always open to exciting collaborations and opportunities. If you have a project in mind or just want to chat about tech, feel free to reach out to me at your.email@example.com!
+I'm always open to exciting collaborations and opportunities. If you have a project in mind or just want to chat about tech, feel free to reach out to me at piyushchry@gmail.com!
