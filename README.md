@@ -14,10 +14,6 @@ I'm a passionate Frontend Developer with expertise in creating captivating user 
 - **Frameworks/Libraries**: React.js, Flutter, Bootstrap
 - **Tools**: VS Code, Git, Figma, Adobe XD
 
-## Projects
-- [Project Name](link): Brief description.
-- [Project Name](link): Brief description.
-- [Project Name](link): Brief description.
 
 ## Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/piyush-chaudhary-118b09203/)
