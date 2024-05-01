@@ -12,7 +12,7 @@ I'm a passionate Frontend Developer with expertise in creating captivating user 
 ## My Toolbox
 - **Languages**: JavaScript, Dart, HTML, CSS
 - **Frameworks/Libraries**: React.js, Flutter, Bootstrap
-- **Tools**: VS Code, Git, Figma, Adobe XD
+- **Tools**: VS Code, Git, Adobe XD
 
 
 ## Let's Connect
